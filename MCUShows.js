@@ -27,4 +27,5 @@ function MCUShows({dates, indexTwo, numTwo}){
 }
 
 // 1d
-export default MCUShows;
+export default MCUShows; 
+end
